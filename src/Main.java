@@ -1,12 +1,15 @@
-import Alogs.Insertion;
+import Alogs.BubbleSort;
+import Alogs.InsertionSort;
 
 public class Main {
     public static void main(String[] args) {
 
-        //Function calls for each algorithm
+        /////////////////////////////////////////////
+        //COMPLETED ALGOS
+        //InsertionSort.insertionAlgo();
+        //BubbleSort.sort();
+        /////////////////////////////////////////////
+        //IN PROGRESS
         //
-        Insertion.insertionAlgo();
-        //Create each data structure?
-        //Model will house data
     }
 }

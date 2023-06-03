@@ -1,6 +1,6 @@
 package Alogs;
 
-public class Insertion {
+public class InsertionSort {
     public static void insertionAlgo(){
         //DataStruct
         int ageNum [] = new int[] {11, 15, 16, 39, 85, 100, 10, 40};
